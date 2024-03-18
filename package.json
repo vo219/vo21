@@ -1,0 +1,30 @@
+{
+  "name": "vo21",
+  "version": "1.0.0",
+  "description": "A collection of magical utility functions for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vo219/vo21"
+  },
+  "dependencies": {
+	  "marinahramtsova": "1.0.0",
+"zyat": "1.0.0",
+"layer-v22": "1.0.0",
+"morozz": "1.0.0",
+"dorothymoore-ini": "1.0.0",
+"vo21": "1.0.0",
+"js-edwardcollins": "1.0.0",
+    "axios": "^0.23.0",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vo219/vo21/issues"
+  },
+  "homepage": "https://github.com/vo219/vo21#readme"
+}
